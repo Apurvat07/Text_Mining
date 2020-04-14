@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582400220106.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8213098",
+    "lastKnownWriteTime" : 31525476567548005,
+    "last_content_update" : 1582400220106,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "537D232D",
+        "caption" : "Interview_Mapping",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Interview_Mapping&cache_key=537D232D",
+        "displayedObservations" : 999,
+        "environment" : "",
+        "object" : "Interview_Mapping",
+        "preview" : 0,
+        "totalObservations" : 999,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
